@@ -26,6 +26,7 @@
     "@angular/router": "~10.1.5",
     "@bugsnag/js": "^7.4.0",
     "@bugsnag/plugin-angular": "^7.4.0",
+    "@bugsnag/plugin-express": "^7.3.5",
     "@nguniversal/express-engine": "^10.1.0",
     "express": "^4.15.2",
     "rxjs": "~6.6.0",

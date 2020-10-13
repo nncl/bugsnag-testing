@@ -14,6 +14,9 @@ export class AboutComponent implements OnInit {
 
   ngOnInit(): void {
     this.title.setTitle('About');
+
+    const test = JSON.parse(localStorage.test);
+    console.log(test); // fixme
   }
 
   error(): void {

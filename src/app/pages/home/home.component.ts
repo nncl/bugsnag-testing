@@ -14,6 +14,8 @@ export class HomeComponent implements OnInit {
 
   ngOnInit(): void {
     this.title.setTitle('Home');
+
+    console.log(window.innerWidth); // fixme
   }
 
   error(): void {
