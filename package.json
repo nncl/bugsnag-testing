@@ -24,6 +24,8 @@
     "@angular/platform-browser-dynamic": "~10.1.5",
     "@angular/platform-server": "~10.1.5",
     "@angular/router": "~10.1.5",
+    "@bugsnag/js": "^7.4.0",
+    "@bugsnag/plugin-angular": "^7.4.0",
     "@nguniversal/express-engine": "^10.1.0",
     "express": "^4.15.2",
     "rxjs": "~6.6.0",
