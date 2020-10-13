@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-bugsnag-poc"
+    }
+  },
+  "defaultProject": "ng-bugsnag-poc",
+  "cli": {
+    "analytics": false
+  }
 }
